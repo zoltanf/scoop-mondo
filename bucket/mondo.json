@@ -1,12 +1,12 @@
 {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "description": "Power-user CLI for the monday.com GraphQL API",
     "homepage": "https://github.com/zoltanf/mondo",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zoltanf/mondo/releases/download/v0.15.0/mondo-0.15.0-windows-x86_64.zip",
-            "hash": "b9bee3d4a8ab9f3992ab25647e64d603bd70207d64fb8a39d98dac1262c373f0"
+            "url": "https://github.com/zoltanf/mondo/releases/download/v0.15.1/mondo-0.15.1-windows-x86_64.zip",
+            "hash": "a44f7c851f3fd248aee9a0c9d40d3c2cc41a94d4f407d35846876647e42fa345"
         }
     },
     "bin": "mondo\\mondo.exe",
